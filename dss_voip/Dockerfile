@@ -15,7 +15,7 @@ COPY rootfs /
 
 # Setup base
 RUN apk add --no-cache \
-    coreutils=9.0-r2 \
+#    coreutils=9.0-r2 \
 #    wget=1.21.2-r2 \
     sox \
     pjsua \
