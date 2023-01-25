@@ -19,8 +19,9 @@ RUN apk add --no-cache \
     wget=1.21.2-r2 \
     sox \
     pjsua \
-    screen \
-    bc
+    screen
+#    screen \
+#    bc
     
 # Build arguments
 ARG BUILD_ARCH
