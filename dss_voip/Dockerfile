@@ -17,6 +17,8 @@ COPY rootfs /
 RUN apk add --no-cache \
 #    coreutils=9.0-r2 \
 #    wget=1.21.2-r2 \
+    coreutils \
+    wget \
     sox \
     pjsua \
     screen \
