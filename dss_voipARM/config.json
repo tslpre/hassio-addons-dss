@@ -1,7 +1,7 @@
 {
   "name": "DSS VoIP Notifier for ARM",
   "version": "4.0.0.1",
-  "slug": "dss_voipARM",
+  "slug": "dss_voipARM2",
   "url": "https://github.com/sdesalve/hassio-addons/tree/master/dss_voipARM",
   "description": "VoIP Notifier for Home Assistant (for ARM processors)",
   "arch": ["aarch64", "armhf", "armv7","amd64","i386"],
